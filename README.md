@@ -12,7 +12,7 @@ Watch the reference video [here](https://www.tiktok.com/@mizukaisuixd/video/7501
 ---
 
 ### 🖼️ Example
-![example](example.gif)
+![]([example.gif](https://github.com/boziahh/fisheye-trend/blob/main/example.gif))
 
 ---
 
